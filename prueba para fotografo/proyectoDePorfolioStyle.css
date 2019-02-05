@@ -1,0 +1,20 @@
+* { box-sizing: border-box; }
+#container{
+	width: 80%;
+	margin: 0;
+}
+img{
+	width: 30%;
+	height: 300px;
+	margin: 1.4%;
+
+}
+p{
+	margin-left: 1.4%;
+	font-size: 40px;
+	font-family: 'Great Vibes', cursive;
+	text-transform: uppercase;
+	border-bottom:2px solid red;
+	padding-bottom: 10px;
+	width: 40%;
+}
